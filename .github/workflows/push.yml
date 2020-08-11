@@ -1,5 +1,5 @@
-on: push
 name: npm build, lint, test and publish
+on: push
 jobs:
   build-and-publish:
     name: build and publish
