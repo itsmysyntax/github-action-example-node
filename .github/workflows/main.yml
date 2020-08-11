@@ -1,8 +1,5 @@
-name: npm build, lint, test and publish
 on: push
-# jobs:
-  # build:
-    # runs-on: ubuntu-latest
+name: npm build, lint, test and publish
 jobs:
   build-and-publish:
     name: build and publish
