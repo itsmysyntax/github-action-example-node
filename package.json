@@ -8,8 +8,7 @@
     "test": "jest --forceExit --runInBand --coverage"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abhinavdhasmana/github-action-example-node.git"
+    "type": "git"
   },
   "keywords": [
     "node.js",
@@ -19,12 +18,7 @@
     "CI",
     "CD"
   ],
-  "author": "abhinav dhasmana (abhinav.dhasmana@live.com)",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/abhinavdhasmana/github-action-example-node/issues"
-  },
-  "homepage": "https://github.com/abhinavdhasmana/github-action-example-node#readme",
   "dependencies": {
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
